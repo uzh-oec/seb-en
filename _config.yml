@@ -2,7 +2,7 @@ title: "SEB"
 logo: "https://safeexambrowser.org/images/SEBIcon_40_2x.png"
 remote_theme: uzh-oec/justthedocs
 color_scheme: light
-aux_links_new_tab: true
+aux_links_new_tab: false
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 Faculty of Business, Economics and Informatics, University of Zurich. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
