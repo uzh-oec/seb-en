@@ -9,8 +9,6 @@ footer_content: "Copyright &copy; 2021 Faculty of Business, Economics and Inform
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 aux_links:
-  "OEC Onlineprüfungen":
-    - "https://www.oec.uzh.ch/de/studies/general/exams/online-exams.html"
    "DE":
     - "https://uzh-oec.github.io/seb/"
 search_enabled: true
