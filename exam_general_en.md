@@ -21,5 +21,5 @@ nav_order: 1
 Starting the SEB is done in different ways for Ans and OLAT-EPIS, please refer to the explanation on the respective support pages:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
 * [Ans & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
-* [EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/https://uzh-oec.github.io/seb-en/exam_seb_epis_win_en.html){:target="_blank"}.
-* [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/https://uzh-oec.github.io/seb-en/exam_seb_epis_mac_en.html){:target="_blank"}.
+* [EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_epis_win_en.html){:target="_blank"}.
+* [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_epis_mac_en.html){:target="_blank"}.
