@@ -25,6 +25,8 @@ Version 3.2pre2, the version is available to downlaod on the following website: 
 1. When you open the Safe Exam Browser for the first time, the start page is displayed. You will be informed that the Safe Exam Browser is not yet fully configured as it needs a **configuration file**
 [![MacOS-Download-5](assets/download-MacOS-step5.png)](assets/download-MacOS-step5.png)
 
+1. Close the SEB again.
+
 **Note**: the **configuration file** is specific to each test / exam and is provided on[https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}. Since the set-up depends on your operating system as well as the learning management system the exam is written on, please follow the respective chapter:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
 * [Ans & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
