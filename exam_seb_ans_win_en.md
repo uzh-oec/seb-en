@@ -12,7 +12,7 @@ This documentation explains how to use the Safe Exam Browser in an **Ans** exam.
 ### Start an exam
 Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
 
-1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+1. You will be provided a **configuration file** for the exam on the following website: [https://www.oec.uzh.ch/en/seb](https://www.oec.uzh.ch/en/seb){:target="_blank"}
 
 1. Once you are on the above website, go to the section **module specific information** and select your module at the bottom of the page.
 
