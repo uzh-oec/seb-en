@@ -1,6 +1,6 @@
 ---
-id: additional_instructions_de
-title: Kamera / Proctoring
+id: additional_instructions_en
+title: Camera / Proctoring
 nav_order: 4
 ---
 
