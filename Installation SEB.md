@@ -1,5 +1,5 @@
 ---
-id: SEB_installation_de
+id: SEB_installation_en
 title: SEB Installation
 nav_order: 2
 has_children: true
@@ -7,4 +7,4 @@ has_children: true
 
 ## Installation Safe Exam Browser
 
-Nachfolgend finden Sie alle Informationen rund um die Installation des Safe Exam Browsers (SEB).
+Below you will find all the information related to the installation of Safe Exam Browser (SEB).
