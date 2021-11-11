@@ -1,13 +1,12 @@
 ---
-id: exam_seb_epis_de
-title: SEB & EPIS mit Windows
-parent: Prüfung
+id: exam_seb_epis_en
+title: SEB & EPIS with Windows
+parent: Exam
 nav_order: 4
 ---
 
 ## SEB mit OLAT-EPIS (Windows)
 
-### Start der Prüfung
 ### Start an exam
 Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
 
@@ -20,42 +19,41 @@ Please make sure you have gone through the checklist before starting the exam [g
 1. A window suggest using the **Safe Exam Browser** to display the exam. Please press **Choose Application**
 [![SEB-Epis-Popup-Win](assets/SEB_Epis_popup_win.png)](assets/SEB_Epis_popup_win.png)
 
-1. Der SEB startet 
+1. The SEB is starting
 [![SEB-Ans-start](assets/SEB_Ans_start.png)](assets/SEB_Ans_start.png)
 
-1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK**  (es ist durchaus möglich, dass weitere Pop-Ups erscheinen z.B. das Zugreifen auf Kamera & Mikrofon oder das Schliessen einer Applikation)
+1. While the SEB is starting, a pop-up will appear indicating that video monitoring is taking place. Press **OK** (it is possible that further pop-ups appear e.g. accessing camera & microphone or indicating that the SEB is closing an application).
 [![SEB-Epis-startSEB-Win](assets/SEB_Epis_remoteproctoring_win.png)](assets/SEB_Epis_remoteproctoring_win.png)
 
-1. Als Nächstes lädt der Safe Exam Browser die Prüfungsplattform OLAT und bittet Sie erneut sich einzuloggen. 
+1. In a next step the Safe Exam Browser will load the OLAT exam platform and asks you to log in again.  
 [![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.jpg)](assets/SEB_Epis_LoginOlatSEB_win.jpg)
 
-1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
+1. Please log in using your SWITCHaai.
 [![SEB-Epis-LoginOlatSEBAAI-Mac](assets/SEB_Epis_AAILogin_win.png)](assets/SEB_Epis_AAILogin_win.png)
 
-1.  Die Prüfung wird nun angezeigt.
+1. The exam is now being displayed.
 
 
-### Während der Prüfung
+### During an exam
 
-Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welche hier genauer erläutert werden.
+The Safe Exam Browser displays different symbols on the top and bottom bar, which are explained here.
 
-**Oben links:** 
+**Top left:** 
 * Back-Button
 * Refresh-Button
 
-**Oben rechts:**
+**Top right:**
 * Menu-Icon
 
-**Unten rechts:**
-Von links nach rechts
-* Profil-Icon
+**Bottom right:**
+Left to right
+* **Profil-Icon**: this entails the video-proctoring. Depending on the settings made by the administrator you can click on it and are then able to see other people in the zoom room
 * Battery Icon
 * Audio-Icon
-* Spracheinstellung: Die Anzeige ist die gegenwärtigee Tastatur und kann zwischen den auf dem Endgerät eingerichteten Tastatureinstellungen 
-* Zeit und Datum
-* Exit Knopf
+* **Language Settings**: The language settings is referring to your keyboard language. You can toggle between the setthings you have installed on your device
+* Date and Time
+* **Exit-Button**: when pressing the button, a password is requested, which only the administrator has. Since exiting the Safe Exam browser is not allowed, you must select **Cancel** in the pop-up when you press the button. Exiting the Safe Exam Browser AFTER submitting the exam is done with a button appearing in the Ans plattfrom: see chapter **Finish an exam** below
 
-
-### Beenden der Prüfung
- 
-(weitere Informationen folgen)
+### Finish an exam
+You are **not** allowed to quit the Safe Exam Browser before the end of exam time slot. Early exit from the Safe Exam Browser is considered exam fraud. Do **NOT** select the button «End Safe Exam Browser» before the exam time has elapsed.
+[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)

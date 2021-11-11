@@ -25,7 +25,7 @@ Please make sure you have gone through the **checklist** before starting the exa
 1. In a next step the Safe Exam Browser will load the OLAT exam platform and asks you to log in again. 
 [![SEB-Epis-LoginOlatSEB-Mac](assets/SEB_Epis_LoginOlatSEB_mac.jpg)](assets/SEB_Epis_LoginOlatSEB_mac.jpg)
 
-1. Please log in using your SWITCHaai once more.
+1. Please log in using your SWITCHaai.
 [![SEB-Epis-LoginOlatSEBAAI-Mac](assets/SEB_Epis_LoginOlatSEBAAI_mac.jpg)](assets/SEB_Epis_LoginOlatSEBAAI_mac.jpg)
 
 1. The exam is now being displayed.
