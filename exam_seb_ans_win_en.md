@@ -1,6 +1,6 @@
 ---
 id: exam_seb_ans_win_en
-title: SEB & Ans mit Windows
+title: SEB & Ans with Windows
 parent: Prüfung
 nav_order: 2
 ---

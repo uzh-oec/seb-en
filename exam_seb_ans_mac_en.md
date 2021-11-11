@@ -1,6 +1,6 @@
 ---
 id: exam_seb_ans_en
-title: SEB & Ans mit MacOS
+title: SEB & Ans with MacOS
 parent: Prüfung
 nav_order: 3
 ---
