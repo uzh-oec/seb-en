@@ -1,7 +1,7 @@
 ---
 id: exam_general_en
 title: Important Information - Checklist
-parent: Prüfung
+parent: Exam
 nav_order: 1
 ---
 
