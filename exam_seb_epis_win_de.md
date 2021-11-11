@@ -8,15 +8,16 @@ nav_order: 4
 ## SEB mit OLAT-EPIS (Windows)
 
 ### Start der Prüfung
-Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
+### Start an exam
+Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
 
-1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [hs4.epis.uzh.ch](hs4.epis.uzh.ch){:target="_blank"}
+1. Open the chrome / firefox browser and log into OLAT-EPIS using the aaiSWITCH Login: [hs4.epis.uzh.ch](hs4.epis.uzh.ch){:target="_blank"}
 [![SEB-OLAT-Login](assets/SEB_Olat_Login.png)](assets/SEB_Olat_Login.png)
 
-1. Es erscheint ein Pop-Up, welches die Aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
+1. A pop-up appears, which displays the exam you are about to take. The window further explains that the exam can only be edited using the **Safe Exam Browser**. Click on the **Start Safe Exam Browser** button.
 [![SEB-Epis-start-Win](assets/SEB_Epis_openbrowser.jpg)](assets/SEB_Epis_openbrowser.jpg)
 
-1. Ein Fenster zeigt die Applikation **Safe Exam Browser** an um die Prüfung zu starten. Klicken Sie **Anwendung wählen / Choose Application**
+1. A window suggest using the **Safe Exam Browser** to display the exam. Please press **Choose Application**
 [![SEB-Epis-Popup-Win](assets/SEB_Epis_popup_win.png)](assets/SEB_Epis_popup_win.png)
 
 1. Der SEB startet 
