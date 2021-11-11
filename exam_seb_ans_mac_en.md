@@ -1,5 +1,5 @@
 ---
-id: exam_seb_ans_de
+id: exam_seb_ans_en
 title: SEB & Ans mit MacOS
 parent: Prüfung
 nav_order: 3
@@ -7,10 +7,10 @@ nav_order: 3
 
 ## SEB & Ans (MacOS)
 
-This documentation explains how to use the Safe Exam Browser in an **Ans** exam. To get to the Safe Exam Browser documentation, please click [here](https://uzh-oec.github.io/seb/exam_seb_ans_de.html){:target="_blank"}. 
+This documentation explains how to use the Safe Exam Browser in an **Ans** exam.
 
 ### Start an exam
-Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_de.html){:target="_blank"}
+Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
 
 1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
