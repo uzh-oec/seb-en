@@ -1,6 +1,6 @@
 ---
 id: exam_general_en
-title: Important Information - Checklist
+title: Checklist - Important Information
 parent: Exam
 nav_order: 1
 ---
