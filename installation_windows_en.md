@@ -37,3 +37,4 @@ Version 3.3.0 from the following page: [https://oec.uzh.ch/de/seb](https://oec.u
 * [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
 
 If you have problems installing the application, please follow the steps [here](https://uzh-oec.github.io/seb-en/installation_problems.html){:target="_blank"}.
+
