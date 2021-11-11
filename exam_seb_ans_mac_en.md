@@ -14,7 +14,7 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Once you are on the above website, go to the section **moduel specific information** and select your module at the bottom of the page.
+1. Once you are on the above website, go to the section **module specific information** and select your module at the bottom of the page.
 
 1. On the respective module page you will find several testing runs as well as the exam listed. Go to the respective section you need the configuration file for and select **FILENAME starten** 
 
