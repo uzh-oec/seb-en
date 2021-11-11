@@ -18,8 +18,8 @@ nav_order: 1
 
 **Note**: If you are listening to music, it is imperative that the music be turned off prior to the exam, as it may continue to play, preventing communication in the event of problems during the exam.
 
-Starting the SEB is done in different ways for Ans and Olat, please refer to the explanation on the respective support pages:
+Starting the SEB is done in different ways for Ans and OLAT-EPIS, please refer to the explanation on the respective support pages:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
 * [Ans & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
-[EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
-* [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
+* [EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/https://uzh-oec.github.io/seb-en/exam_seb_epis_win_en.html){:target="_blank"}.
+* [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/https://uzh-oec.github.io/seb-en/exam_seb_epis_mac_en.html){:target="_blank"}.
