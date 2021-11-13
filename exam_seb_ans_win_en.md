@@ -6,8 +6,14 @@ nav_order: 2
 ---
 
 ## Ans & SEB (Windows)
+{: .no_toc }
 
 This documentation explains how to use the Safe Exam Browser in an **Ans** exam.
+
+1. Inhaltsübersicht
+{:toc}
+
+---
 
 ### Start an exam
 Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
