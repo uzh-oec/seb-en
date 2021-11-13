@@ -8,7 +8,7 @@ nav_order: 3
 ## Installation on MacOS
 
 1. Download the newest Safe Exam Browser version:
-Version 3.2pre3, the version is available to downlaod on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+Version 3.2pre3, the version is available to downlaod on the following website: [https://oec.uzh.ch/en/seb](https://oec.uzh.ch/en/seb){:target="_blank"}
 
 1. Download the file & open the downloaded program:
 * By double clicking on the icon 
