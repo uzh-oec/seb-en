@@ -49,7 +49,7 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. After the successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
 [![SEB-Ans-Plattform](assets/SEB_Ans_Plattform.png)](assets/SEB_Ans_Plattform.png)
-**Note**: if the exam is not displayed (correctly), look for the exam within the Ans landing page (click on the ans logo in the top-left corner): 
+**Note**: if the exam is not displayed (correctly) (e.g. error message "Access denied" / "Incorrect configuration detected), click on the **ans** logo at the top left and look for the exam within the Ans landing page (click on the ans logo in the top-left corner): 
 * If the exam time has not yet started, look for the exam within the section **Scheduled assignments**
 * If the exam time has already started, look for the exam within the secton **Live assignments**
 
