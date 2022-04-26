@@ -10,8 +10,9 @@ nav_order: 1
 The SEB browser supports both Windows and MacOS. The respective operating system should be up to date. Below you will find the supported operating systems.
 
 ### Windows operating systems:
-* Windows 8.1
+* Windows 11
 * Windows 10
+* Windows 8.1
 
 ### MacOS operating systems:
 * macOS 12 Monterey

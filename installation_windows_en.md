@@ -8,7 +8,7 @@ nav_order: 2
 ## Installation on Windows
 
 1. Download the following SEB version for Windows:
-Version 3.3.1 from the following page: [https://www.oec.uzh.ch/en/seb](https://oec.uzh.ch/en/seb){:target="_blank"}
+Version 3.3.2 from the following page: [https://www.oec.uzh.ch/en/seb](https://oec.uzh.ch/en/seb){:target="_blank"}
 
 1. Download the Safe Exam Browser and save the file
 [![Windows-Download-2](assets/download-windows-step2.png)](assets/download-windows-step2.png)
@@ -32,11 +32,11 @@ Version 3.3.1 from the following page: [https://www.oec.uzh.ch/en/seb](https://o
 
 1. Close the SEB again
 
-**Note**: the **configuration file** is specific to each test / exam and is provided on[https://www.oec.uzh.ch/en/seb](https://www.oec.uzh.ch/en/seb){:target="_blank"}. Since the set-up depends on your operating system as well as the learning management system the exam is written on, please follow the respective chapter:
+**Note**: the **configuration file** is specific to each test / exam and is provided on [https://www.oec.uzh.ch/en/seb](https://www.oec.uzh.ch/en/seb){:target="_blank"}. Since the set-up depends on your operating system as well as the learning management system the exam is written on, please follow the respective chapter:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
 * [Ans & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_ans_mac_en.html){:target="_blank"}.
 * [EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_epis_win_en.html){:target="_blank"}.
 * [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_epis_mac_en.html){:target="_blank"}.
 
-If you have problems installing the application, please follow the steps [here](https://uzh-oec.github.io/seb-en/installation_problems.html){:target="_blank"}.
+If you have problems installing the application, please follow the steps [here](https://uzh-oec.github.io/seb-en/installation_problems_en.html){:target="_blank"}.
 

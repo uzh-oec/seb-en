@@ -20,6 +20,5 @@ If the above steps do not result in a successful installation of the SEB, please
 * Operating system of the end device
 * Type of error message (with screenshot if possible)
 * Installation step of the documentation (and link)
-* Confirmation of the steps outlined above
 
 The more information you include with the email, the faster the problem can generally be fixed.
