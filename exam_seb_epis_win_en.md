@@ -34,7 +34,7 @@ Please make sure you have gone through the checklist before starting the exam [g
 [![SEB-Epis-startSEB-Win](assets/SEB_Epis_remoteproctoring_win.png)](assets/SEB_Epis_remoteproctoring_win.png)
 
 1. In a next step the Safe Exam Browser will load the OLAT exam platform and asks you to log in again.  
-[![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.jpg)](assets/SEB_Epis_LoginOlatSEB_win.jpg)
+[![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.png)](assets/SEB_Epis_LoginOlatSEB_win.png)
 
 1. Please log in using your SWITCHaai.
 [![SEB-Epis-LoginOlatSEBAAI-Mac](assets/SEB_Epis_AAILogin_win.png)](assets/SEB_Epis_AAILogin_win.png)
