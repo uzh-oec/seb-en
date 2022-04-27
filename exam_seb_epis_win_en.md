@@ -62,6 +62,9 @@ Left to right
 * Date and Time
 * **Exit-Button**: when pressing the button, a password is requested, which only the administrator has. Since exiting the Safe Exam browser is not allowed, you must select **Cancel** in the pop-up when you press the button. Exiting the Safe Exam Browser AFTER submitting the exam is done with a button appearing in the Ans plattfrom: see chapter **Finish an exam** below
 
+A detailed overview regarding icons and their function can be found here:
+[Icons explained](./icons_explained.md)
+
 ### Finish an exam
 You are **not** allowed to quit the Safe Exam Browser before the end of exam time slot. Early exit from the Safe Exam Browser is considered exam fraud. Do **NOT** select the button «End Safe Exam Browser» before the exam time has elapsed.
 [![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)

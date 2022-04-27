@@ -56,6 +56,8 @@ Please make sure you have gone through the checklist before starting the exam [g
 1. You are now able to take the exam by accepting the code of honor and pressing the **Start**-button. You can find additional information on Ans [here](https://uzh-oec.github.io/ans/exam-navigation-en.html){:target="_blank"}
 [![SEB-Ans-StartExam](assets/SEB_Ans_startexam.png)](assets/SEB_Ans_startexam.png)
 
+A detailed overview regarding icons and their function can be found here:
+[Icons explained](./icons_explained.md)
 
 ### During an exam
 

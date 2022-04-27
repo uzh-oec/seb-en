@@ -2,6 +2,7 @@
 id: SEB_en
 title: SEB General information
 nav_order: 5
+has_children: true
 ---
 
 ## Safe Exam Browser (SEB) 
