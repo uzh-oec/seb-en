@@ -16,6 +16,8 @@ Another way to access your software is by using "swipe-gestures" on the touchpad
 **MacOS by Apple**
 If you are using MacOS software can currently only be accessed through the usage of "swipe gestures". Swipe up with 3 fingers on your touchpad in order to bring up your dock. Currently the dock will not be fully displayed and is partially hidden by SEB. Nevertheless, you should still be able to open your desired software. For more information regarding "swipe gestures" search for "touch gestures" on the official Apple support page.
 
+The combination of command + arrow key can also be used, but must be setup beforehand.
+
 [![icons-openbook_dock](assets/openbook_dock.jpg)](assets/openbook_dock.jpg)
 
 **Note**
