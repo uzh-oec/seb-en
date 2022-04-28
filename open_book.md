@@ -20,5 +20,6 @@ If you are using MacOS software can currently only be accessed through the usage
 
 **Note**
 As preparation for an open book exam conducted in SEB you should take following steps.
-Make sure that all software you might use during the exam is already pinned to your toolbar / dock before the exam.
-You can also open up software you might need before the exam. SEB will keep allowed software open in the background. This might help you accessing software quicker and might safe you time on the exam and makes software easier to find.
+* Make sure that all software you might use during the exam is already pinned to your toolbar / dock before the exam.
+* You can also open up software you might need before the exam. SEB will keep allowed software open in the background. This might help you accessing software quicker and might safe you time on the exam and makes software easier to find.
+* To be sure pin more than one browser to your toolbar / dock (firefox and Google chrome are recommended)
