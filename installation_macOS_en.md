@@ -11,7 +11,8 @@ nav_order: 3
 Version 3.2rc, the version is available to download on the following website: [https://oec.uzh.ch/en/seb](https://oec.uzh.ch/en/seb){:target="_blank"}
 
 1. Download the file & open the downloaded program:
-* By double clicking on the icon 
+* By double clicking on the icon
+
     [![MacOS-Download-2_1](assets/download-MacOS-step2_1.png)](assets/download-MacOS-step2_1.png)
 * Or with a right mouse click and selecting «open»
     [![MacOS-Download-2_2](assets/download-MacOS-step2_2.png)](assets/download-MacOS-step2_2.png)

@@ -12,7 +12,7 @@ nav_order: 1
 1. Access to the learning management system / e-assessment tool via Single Sign On (SWITCHaai) is granted.
 1. Camera:
 * The exam device has a working camera
-* The assessment device has **two** cameras (e.g. Windows Surface): **Make sure the camera on the back of the device is turned off (see instructions to disable)**.
+* The assessment device has **two** cameras (e.g. Windows Surface): **Make sure the camera on the back of the device is turned off (see [Camera](https://uzh-oec.github.io/seb/additional_instructions_en.html))**.
 * All other programs are closed: If the programs are not closed, Safe Exam Browser will force quit them, which may result in **data loss**.
 1. Disable the sound on your keyboard, do **not** mute the microphone.
 
