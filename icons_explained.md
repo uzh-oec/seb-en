@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 ## Icons in Safe Exam Browser (SEB)
-At the bottom of SEB you can find additional functionality which is briefly explained here.
+SEB offers a range of different functionality which, depending on the operating system and the exam, might be found at different places. Following examples were created using MacOS, nonetheless is the functionality the same for all operating systems.
 
 [![icons-overview](assets/icons_overview.jpg)](assets/icons_overview.jpg)
 
@@ -22,7 +22,7 @@ The button "Back to Start" should not be clicked as it forces SEB to jump back t
 
 [![icons-back](assets/icons_back.jpg)](assets/icons_back.jpg)
 
-By clicking the "hand" icon the exam team is notified that you need support. Depending on the operating system you are using a long press on this button opens a message dialogue. Through this dialogue you may also submit additonal info to the exam team regarding your problem.
+By clicking the "hand" icon the exam team is notified that you need support. Depending on the operating system you are using a long press on this button opens a message dialogue. Through this dialogue you may also submit additonal info to the exam team regarding your problem. Briefly describe your problem here.
 
 [![icons-hand-01](assets/icons_hand_01.jpg)](assets/icons_hand_01.jpg)
 
@@ -41,3 +41,9 @@ By clicking on the "proctoring button" a Zoom window opens showing all participa
 The button "quit" will close SEB and end the exam for you. Depending on the exam closing of SEB might only be possible through entering a password. This password will be given to you at the end of the exam by the exam team. To be safe never close the SEB if you are not told to do so. Closing SEB during an exam is considered fraud.
 
 [![icons-icons_quit](assets/icons_quit.jpg)](assets/icons_quit.jpg)
+
+In the top part of SEB additional functionality such as search and zoom is found. Search allows you to highlight matching text on the exam page.
+
+The different zoom functions allow you to increase/decrease the whole page or increase/decrease the text on the page.
+
+[![icons-search-zoom](assets/icons_search_zoom.jpg)](assets/icons_search_zoom.jpg)
