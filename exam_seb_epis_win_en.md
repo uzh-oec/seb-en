@@ -44,23 +44,7 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 ### During an exam
 
-The Safe Exam Browser displays different symbols on the top and bottom bar, which are explained here.
-
-**Top left:** 
-* Back-Button
-* Refresh-Button
-
-**Top right:**
-* Menu-Icon
-
-**Bottom right:**
-Left to right
-* **Profil-Icon**: this entails the video-proctoring. Depending on the settings made by the administrator you can click on it and are then able to see other people in the zoom room
-* Battery Icon
-* Audio-Icon
-* **Language Settings**: The language settings is referring to your keyboard language. You can toggle between the setthings you have installed on your device
-* Date and Time
-* **Exit-Button**: when pressing the button, a password is requested, which only the administrator has. Since exiting the Safe Exam browser is not allowed, you must select **Cancel** in the pop-up when you press the button. Exiting the Safe Exam Browser AFTER submitting the exam is done with a button appearing in the Ans plattfrom: see chapter **Finish an exam** below
+Safe Exam Browser provides a variety of functions which, depending on the version, are displayed either on top or on the bottom of SEB or might not be available at all.
 
 A detailed overview regarding icons and their function can be found here:
 [Icons explained](./icons_explained.md)
