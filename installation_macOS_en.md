@@ -20,13 +20,8 @@ Version 3.2rc, the version is available to download on the following website: [h
 1. A pop-up appears, instructing you to drag and drop the "Safe Exam Browser" icon into the Application Folder 
 [![MacOS-Download-3](assets/download-MacOS-step3.png)](assets/download-MacOS-step3.png)
 
-1.	Now navigate to the Applications Folder and open the Safe Exam Browser. When you open it, you will be reminded again that it is a downloaded application from the internet. Open the program
+1. Close the installation window and search for "Safe Exam Browser" in your search function at the bottom left. If you can find SEB then it was installed correctly. **Note**: In order to test the installation, a valid configuration file is needed. This configuration file might be given to you by the exam team.
 [![MacOS-Download-4](assets/download-MacOS-step4.png)](assets/download-MacOS-step4.png)
-
-1. When you open the Safe Exam Browser for the first time, the start page is displayed. You will be informed that the Safe Exam Browser is not yet fully configured as it needs a **configuration file**
-[![MacOS-Download-5](assets/download-MacOS-step5.png)](assets/download-MacOS-step5.png)
-
-1. Close the SEB again.
 
 **Note**: the **configuration file** is specific to each test / exam and is provided on [https://oec.uzh.ch/en/seb](https://oec.uzh.ch/de/seb){:target="_blank"}. Since the set-up depends on your operating system as well as the learning management system the exam is written on, please follow the respective chapter:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.

@@ -21,13 +21,8 @@ Version 3.3.2 from the following page: [https://www.oec.uzh.ch/en/seb](https://o
 1. Once the Safe Exam Browser is installed, the following is being displayed:
 [![Windows-Download-6](assets/download-windows-step6.png)](assets/download-windows-step6.png)
 
-1. Close the installation window and search for "Safe Exam Browser" in your search function at the bottom left. Open the application.
+1. Close the installation window and search for "Safe Exam Browser" in your search function at the bottom left. If you can find SEB then it was installed correctly. **Note**: In order to test the installation, a valid configuration file is needed. This configuration file might be given to you by the exam team.
 [![Windows-Download-7](assets/download-windows-step7.png)](assets/download-windows-step7.png)
-
-1. When you open the Safe Exam Browser, you will be shown the start page. You will be informed that the Safe Exam Browser is not yet fully configured as it needs a **configuration file**
-[![Windows-Download-8](assets/download-windows-step8.png)](assets/download-windows-step8.png)
-
-1. Close the SEB again
 
 **Note**: the **configuration file** is specific to each test / exam and is provided on [https://www.oec.uzh.ch/en/seb](https://www.oec.uzh.ch/en/seb){:target="_blank"}. Since the set-up depends on your operating system as well as the learning management system the exam is written on, please follow the respective chapter:
 * [Ans & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_ans_win_en.html){:target="_blank"}.
