@@ -1,8 +1,8 @@
 ---
-id: SEB_de
+id: SEB_en
 title: Icons explained
-parent: SEB General information
-nav_order: 1
+parent: Important Information
+nav_order: 2
 ---
 
 ## Icons in Safe Exam Browser (SEB)
