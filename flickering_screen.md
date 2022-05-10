@@ -21,8 +21,7 @@ In Windows you can see this in the Taskmanager under the tab Autostart.
 [![flickering_screen_autostart_windows](assets/flickering_screen_autostart_windows.PNG)](assets/flickering_screen_autostart_windows.PNG)
 
 On MacOS go to Users & Groups and look for Login Items.
-[![flickering_screen_autostart_windows](assets/flickering_screen_autostart_windows.PNG)](assets/flickering_screen_autostart_windows.PNG)
+[![flickering_screen_autostart_macos](assets/flickering_screen_autostart_macos.PNG)](assets/flickering_screen_autostart_macos.PNG)
 
 Try now to disable one software after the other until you find the one which has caused the issue.
-
 Make sure that the software which caused the issue is not running during an exam.
