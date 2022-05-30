@@ -28,4 +28,8 @@ Open Finder and go to Applications. Then move Safe Exam Browser to the bin or ri
 After this, there might still be some SEB files left on your pc. Check the locations below.
 **Note**: The folder Library is hidden, you have to either unhide hidden files and folders or enter the location directly into the file explorer (Finder -> Go -> Go to Folder).
 
-/Users/YOURUSERNAME/Library/Application Support/SafeExamBrowser
+/Users/YOURUSERNAME/Library/Application Support/
+
+In this locations delete the folder "SafeExamBrowser". The folder might not be present in every folder, so just delete the ones you find.
+
+Safe Exam Browser is now fully uninstalled. You can now download the installation file and re-install SEB.
