@@ -28,9 +28,6 @@ nav_order: 3
 
 * [Ans & SEB mit MacOS](exam_seb_ans_mac)
 * [EPIS-OLAT & SEB mit MacOS](exam_seb_epis_mac)
-* [EPIS-OLAT & SEB with Windows](https://uzh-oec.github.io/seb-en/exam_seb_epis_win_en.html){:target="_blank"}.
-* [EPIS-OLAT & SEB with MacOS](https://uzh-oec.github.io/seb-en/exam_seb_epis_mac_en.html){:target="_blank"}.
-
 
 If you have problems installing the application, please follow the steps [here](installation_problems).
 
