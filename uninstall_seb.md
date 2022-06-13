@@ -1,5 +1,5 @@
 ---
-id: SEB_en
+id: uninstall_seb
 title: Uninstall SEB
 parent: Important Information
 nav_order: 5

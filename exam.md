@@ -1,5 +1,5 @@
 ---
-id: exam_en
+id: exam
 title: Exam
 nav_order: 3
 has_children: true
