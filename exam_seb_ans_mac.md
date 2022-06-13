@@ -1,5 +1,5 @@
 ---
-id: exam_seb_ans_en
+id: exam_seb_ans
 title: SEB & Ans with MacOS
 parent: Exam
 nav_order: 3
@@ -16,7 +16,7 @@ This documentation explains how to use the Safe Exam Browser in an **Ans** exam.
 ---
 
 ### Start an exam
-Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
+Please make sure you have gone through the checklist before starting the exam [general information](exam_general.html)
 
 1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
@@ -27,15 +27,15 @@ Please make sure you have gone through the checklist before starting the exam [g
 1. The configuratoin is loading and starting the SEB
 
 1. During the start of the SEB a pop-up is indicating that you are being proctored. Please click **OK**       
-[![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
+[![SEB-Ans-start-Mac](assets/pictures/exam_seb_ans_mac/seb_ans_remoteproctoring_mac.png)](assets/pictures/exam_seb_ans_mac/seb_ans_remoteproctoring_mac.png)
 
 1. In a next step SEB is loading the Ans software. Please choose the option "Login with school account". For faster selection of **University of Zurich (UZH)** type **Zurich** or **uzh** in the search bar
-[![SEB-Ans-login-Mac](assets/SEB_Ans_login_mac.png)](assets/SEB_Ans_login_mac.png)
+[![SEB-Ans-login-Mac](assets/pictures/exam_seb_ans_mac/seb_ans_login_mac.png)](assets/pictures/exam_seb_ans_mac/seb_ans_login_mac.png)
 
 1. Log in with your SWITCHaai
 
 1. Upon successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
-[![SEB-Ans-Prüfung-Mac](assets/SEB_Ans_Prüfung_mac.png)](assets/SEB_Ans_Prüfung_mac.png)
+[![SEB-Ans-Prüfung-Mac](assets/pictures/exam_seb_ans_mac/seb_ans_exam_mac.png)](assets/pictures/exam_seb_ans_mac/seb_ans_exam_mac.png)
 **Note**: if the exam is not displayed (e.g. an error message such as "Access denied" / "Incorrect configuration detected), click on the **ans** logo at the top left and search for the exam:
 * If the exam time has not yet started, look for the exam within the section **Scheduled assignments**
 * If the exam time has already started, look for the exam within the secton **Live assignments**
@@ -51,13 +51,10 @@ Please make sure you have gone through the checklist before starting the exam [g
 Safe Exam Browser provides a variety of functions which, depending on the version, are displayed either on top or on the bottom of SEB or might not be available at all.
 
 A detailed overview regarding icons and their function can be found here:
-[Icons explained](./icons_explained.md)
+[Icons explained](icons_explained)
 
 ### Finish an exam
  
 You are **not** allowed to quit the Safe Exam Browser before the end of exam time slot. Early exit from the Safe Exam Browser is considered exam fraud. Do **NOT** select the button «End Safe Exam Browser» before the exam time has elapsed.
-[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
-
-**Mote**: When quitting the SEB using a MacOS, an pop-up appears containing an error message "Safe Exam Browser quit unexpectely". Please select **OK**
-[![SEB-Ans-Error-Mac](assets/SEB_Ans_postquit_mac.png)](assets/SEB_Ans_postquit_mac.png)
+[![SEB-Ans-QuitBrowser](assets/pictures/exam_seb_ans_mac/seb_ans_donotquit.png)](assets/pictures/exam_seb_ans_mac/seb_ans_donotquit.png)
 

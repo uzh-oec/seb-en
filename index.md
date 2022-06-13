@@ -1,5 +1,5 @@
 ---
-id: home_en
+id: index
 title: Home
 nav_order: 1
 ---

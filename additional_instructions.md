@@ -1,5 +1,5 @@
 ---
-id: additional_instructions_en
+id: additional_instructions
 title: Camera / Proctoring
 nav_order: 4
 ---
@@ -18,28 +18,28 @@ Please make sure that your camera is working for the video proctoring.
 If your device has **several** cameras, it is important to turn off the camera on the **rear of the device**.
 
 1. Click on "Start" / the "Windows icon" and enter "Device Manager" in the search bar.
-[![SEB-Camera1](assets/SEB-Camera1.png)](assets/SEB-Camera1.png)
+[![SEB-Camera1](assets/pictures/additional_instructions/seb_camera_01.png)](assets/pictures/additional_instructions/seb_camera_01.png)
 
 1. Open the "Device Manager" and look for "System Devices".
-[![SEB-Camera2](assets/SEB-Camera2.png)](assets/SEB-Camera2.png)
+[![SEB-Camera2](assets/pictures/additional_instructions/seb_camera_02.png)](assets/pictures/additional_instructions/seb_camera_02.png)
 
 1. Click on "System Devices" and search for the cameras (i.e. Microsoft Camera Rear). 
-[![SEB-Camera3](assets/SEB-Camera3.png)](assets/SEB-Camera3.png)
+[![SEB-Camera3](assets/pictures/additional_instructions/seb_camera_03.png)](assets/pictures/additional_instructions/seb_camera_03.png)
 **Note:** If you are unable to locate the camera within the "System Devices" look for **Imaging Devices** instead and follow the steps below.
 
 1. Disable the camera on the rear of the device by doing a "right-mouse-click" on the respective camera and select "disable".
-[![SEB-Camera4](assets/SEB-Camera4.png)](assets/SEB-Camera4.png)
+[![SEB-Camera4](assets/pictures/additional_instructions/seb_camera_04.png)](assets/pictures/additional_instructions/seb_camera_04.png)
 
 1. A pop-up will be displayed, asking you whether you are sure to deactivate the camera. Press **Yes**
-[![SEB-Camera5](assets/SEB-Camera5.png)](assets/SEB-Camera5.png)
+[![SEB-Camera5](assets/pictures/additional_instructions/seb_camera_05.png)](assets/pictures/additional_instructions/seb_camera_05.png)
 
 1. The camera is now displayed as **deactivated**
 
-[![SEB-Camera6](assets/SEB-Camera6.png)](assets/SEB-Camera6.png)
+[![SEB-Camera6](assets/pictures/additional_instructions/seb_camera_06.png)](assets/pictures/additional_instructions/seb_camera_06.png)
 
 
 **Note**: If you want to reactivate your camera, follow the instructions above again, but click on "enable" in point 4
-[![SEB-Camera-Note](assets/SEB-Camera_Hinweis.png)](SEB-Camera_Note.png)
+[![SEB-Camera-Note](assets/pictures/additional_instructions/seb_camera_information.png)](assets/pictures/additional_instructions/seb_camera_information.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-id: Betriebssysteme_en
+id: operation_system
 title: Operating systems
 parent: SEB Installation
 nav_order: 1

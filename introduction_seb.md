@@ -1,5 +1,5 @@
 ---
-id: SEB_en
+id: introduction_seb
 title: SEB General information
 parent: Important Information
 nav_order: 1

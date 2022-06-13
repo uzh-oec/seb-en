@@ -1,5 +1,5 @@
 ---
-id: SEB_en
+id: open_book
 title: Open Book Exam
 parent: Important Information
 nav_order: 3
@@ -15,18 +15,18 @@ Another way to access your software is by using "swipe-gestures" on the touchpad
 
 When using Windows it might happen that you do not see the SEB icons (such as "raise hand" or "refresh page") on the toolbar anymore.
 
-[![openbook_sebtoolbar_01](assets/openbook_sebtoolbar_01.jpg)](assets/openbook_sebtoolbar_01.jpg)
+[![openbook_sebtoolbar_01](assets/pictures/open_book/sebtoolbar_01.jpg)](assets/pictures/open_book/sebtoolbar_01.jpg)
 
 In order to see the icons again, you have to click on the SEB icon in the Windows toolbar and select the "Taskbar" SEB window. The icons will then return back to the SEB toolbar.
 
-[![openbook_sebtoolbar_02](assets/openbook_sebtoolbar_02.jpg)](assets/openbook_sebtoolbar_02.jpg)
+[![openbook_sebtoolbar_02](assets/pictures/open_book/sebtoolbar_02.jpg)](assets/pictures/open_book/sebtoolbar_02.jpg)
 
 **MacOS by Apple**
 If you are using MacOS software can currently be accessed through the usage of "swipe gestures". Swipe up with 3 fingers on your touchpad in order to bring up your dock. Currently the dock will not be fully displayed and is partially hidden by SEB. Nevertheless, you should still be able to open your desired software. For more information regarding "swipe gestures" search for "touch gestures" on the official Apple support page.
 
 The combination of control + arrow key can also be used, but must be setup beforehand.
 
-[![icons-openbook_dock](assets/openbook_dock.jpg)](assets/openbook_dock.jpg)
+[![icons-openbook_dock](assets/pictures/open_book/dock.jpg)](assets/pictures/open_book/dock.jpg)
 
 **Note**
 As preparation for an open book exam conducted in SEB you should take following steps.

@@ -1,5 +1,5 @@
 ---
-id: SEB_installation_en
+id: installation_seb
 title: SEB Installation
 nav_order: 2
 has_children: true
